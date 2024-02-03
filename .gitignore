@@ -1,6 +1,5 @@
 sass/
 node_modules/
 css/style.comp.css
-css/stype.comp.css.map
+css/style.comp.css.map
 css/style.concat.css
-css/style.prefix.css
